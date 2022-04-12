@@ -1,4 +1,4 @@
-# WebDevBootcamp
+# JS-Projects1
 
 
-Repository of all of my Projects while learning Javascript and the front-end, back-end and integrations of it. 
+Repository of all the projects I have currently completed while learning Javascript. 
